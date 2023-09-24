@@ -1,0 +1,138 @@
+Year,Facility Id,Hospital Name,Hospital County,Stroke Designated Center,Coverdell Hospital,Stroke Cases,Died,Observed Rate,Expected Rate,Risk Adjusted Rate,Lower 95CI RAR,Upper 95CI RAR,Compare to State
+2013,324,Adirondack Medical Center-Saranac Lake Site,Franklin,No,No,30,3,10,10.65,13.15,2.71,38.44,NS
+2013,1,Albany Medical Center Hospital,Albany,Yes,Yes,636,80,12.58,14.26,12.36,9.8,15.38,NS
+2013,4,Albany Memorial Hospital,Albany,Yes,Yes,58,8,13.79,13.64,14.17,6.12,27.92,NS
+2013,325,Alice Hyde Medical Center,Franklin,No,No,33,10,30.3,15.34,27.68,13.27,50.91,NS
+2013,116,Arnot Ogden Medical Center,Chemung,Yes,No,166,20,12.05,10.91,15.47,9.45,23.9,NS
+2013,85,Auburn Community Hospital,Cayuga,Yes,No,47,7,14.89,13.71,15.22,6.12,31.36,NS
+2013,1438,Bellevue Hospital Center,New York,Yes,No,156,26,16.67,16.56,14.1,9.21,20.66,NS
+2013,1324,Beth Israel Med Center-Kings Hwy Div,Kings,Yes,No,181,17,9.39,10.5,12.53,7.3,20.06,NS
+2013,1439,Beth Israel Medical Center/Petrie Campus,New York,Yes,Yes,336,41,12.2,13.96,12.24,8.79,16.61,NS
+2013,1178,Bronx-Lebanon Hospital Center - Concourse Division,Bronx,Yes,Yes,261,27,10.34,10.08,14.38,9.48,20.92,NS
+2013,1286,Brookdale Hospital Medical Center,Kings,Yes,No,275,41,14.91,12.95,16.13,11.57,21.88,NS
+2013,885,Brookhaven Memorial Hospital Medical Center Inc,Suffolk,Yes,Yes,180,26,14.44,15.05,13.45,8.78,19.7,NS
+2013,1288,Brooklyn Hospital Center - Downtown Campus,Kings,Yes,Yes,134,25,18.66,13.69,19.09,12.35,28.18,NS
+2013,207,Buffalo General Medical Center,Erie,Yes,Yes,1518,248,16.34,14.91,15.35,13.5,17.39,NS
+2013,815,Canton-Potsdam Hospital,St Lawrence,No,No,52,10,19.23,11.61,23.21,11.13,42.68,NS
+2013,971,Catskill Regional Medical Center,Sullivan,No,No,49,5,10.2,9.73,14.69,4.77,34.29,NS
+2013,977,Cayuga Medical Center at Ithaca,Tompkins,Yes,No,102,25,24.51,14.9,23.05,14.92,34.02,Above
+2013,135,Champlain Valley Physicians Hospital Medical Center,Clinton,No,No,108,13,12.04,9.61,17.54,9.34,30,NS
+2013,798,Claxton-Hepburn Medical Center,St Lawrence,No,No,36,4,11.11,7.35,21.18,5.77,54.23,NS
+2013,146,Columbia Memorial Hospital,Columbia,Yes,No,50,5,10,9.73,14.4,4.68,33.61,NS
+2013,1294,Coney Island Hospital,Kings,Yes,No,193,34,17.62,17,14.52,10.05,20.29,NS
+2013,866,Corning Hospital,Steuben,Yes,No,66,4,6.06,7.62,11.14,3.04,28.52,NS
+2013,636,Crouse Hospital,Onondaga,Yes,No,365,55,15.07,16.6,12.72,9.58,16.56,NS
+2013,829,Ellis Hospital,Schenectady,Yes,Yes,345,63,18.26,13.89,18.42,14.16,23.57,Above
+2013,1626,Elmhurst Hospital Center,Queens,Yes,No,244,36,14.75,14.15,14.61,10.23,20.23,NS
+2013,210,Erie County Medical Center,Erie,Yes,No,78,13,16.67,13.35,17.5,9.32,29.92,NS
+2013,599,Faxton-St Lukes Healthcare St Lukes Division,Oneida,Yes,Yes,365,74,20.27,15.64,18.16,14.26,22.8,Above
+2013,678,F F Thompson Hospital,Ontario,Yes,No,103,25,24.27,12.95,26.26,17,38.77,Above
+2013,1628,Flushing Hospital Medical Center,Queens,Yes,No,162,29,17.9,15.14,16.56,11.09,23.79,NS
+2013,1638,Forest Hills Hospital,Queens,Yes,No,181,19,10.5,13.1,11.23,6.76,17.54,NS
+2013,518,Franklin Hospital,Nassau,Yes,Yes,210,21,10,9.73,14.39,8.91,22,NS
+2013,671,Geneva General Hospital,Ontario,Yes,Yes,90,12,13.33,12.32,15.17,7.84,26.49,NS
+2013,490,Glen Cove Hospital,Nassau,Yes,No,82,13,15.85,12.88,17.24,9.18,29.48,NS
+2013,1005,Glens Falls Hospital,Warren,No,No,141,22,15.6,15.85,13.79,8.64,20.88,NS
+2013,925,Good Samaritan Hospital Medical Center,Suffolk,Yes,No,291,54,18.56,17.03,15.26,11.47,19.91,NS
+2013,779,Good Samaritan Hospital of Suffern,Rockland,Yes,No,187,21,11.23,12.27,12.82,7.94,19.6,NS
+2013,1445,Harlem Hospital Center,New York,Yes,No,113,8,7.08,9.3,10.66,4.6,21.01,NS
+2013,409,Highland Hospital,Monroe,Yes,Yes,190,32,16.84,13.97,16.89,11.55,23.84,NS
+2013,1039,Hudson Valley Hospital Center,Westchester,Yes,No,110,15,13.64,9.22,20.73,11.6,34.19,NS
+2013,913,Huntington Hospital,Suffolk,Yes,No,213,35,16.43,15.44,14.91,10.38,20.73,NS
+2013,1309,Interfaith Medical Center,Kings,No,No,33,3,9.09,7.83,16.27,3.36,47.56,NS
+2013,1165,Jacobi Medical Center,Bronx,Yes,No,156,20,12.82,14.79,12.14,7.42,18.76,NS
+2013,1629,Jamaica Hospital Medical Center,Queens,Yes,Yes,509,71,13.95,11.49,17.01,13.28,21.45,NS
+2013,895,John T Mather Memorial Hospital of Port Jefferson New York Inc,Suffolk,Yes,Yes,132,13,9.85,11.84,11.66,6.21,19.93,NS
+2013,267,Kenmore Mercy Hospital,Erie,Yes,Yes,127,23,18.11,14.63,17.35,11,26.03,NS
+2013,1315,Kingsbrook Jewish Medical Center,Kings,Yes,No,170,11,6.47,11.16,8.12,4.05,14.53,NS
+2013,1301,Kings County Hospital Center,Kings,Yes,No,324,35,10.8,9.53,15.88,11.06,22.09,NS
+2013,990,Kingston Hospital,Ulster,Yes,No,177,19,10.73,9.17,16.4,9.87,25.6,NS
+2013,1122,Lawrence Hospital Center,Westchester,Yes,Yes,141,24,17.02,16.61,14.36,9.2,21.36,NS
+2013,1450,Lenox Hill Hospital,New York,Yes,No,176,15,8.52,11.42,10.46,5.85,17.25,NS
+2013,1172,Lincoln Medical & Mental Health Center,Bronx,Yes,No,214,25,11.68,10.44,15.68,10.15,23.15,NS
+2013,1630,Long Island Jewish Medical Center,Queens,Yes,No,395,42,10.63,11.86,12.56,9.05,16.98,NS
+2013,1304,Lutheran Medical Center,Kings,Yes,Yes,317,32,10.09,16.51,8.57,5.86,12.09,Below
+2013,1305,Maimonides Medical Center,Kings,Yes,Yes,627,70,11.16,14.59,10.72,8.36,13.55,Below
+2013,746,Mary Imogene Bassett Hospital,Otsego,Yes,No,137,19,13.87,8.42,23.07,13.89,36.03,NS
+2013,1453,Memorial Hospital for Cancer and Allied Diseases,New York,No,No,40,5,12.5,14.79,11.84,3.84,27.63,NS
+2013,213,Mercy Hospital,Erie,Yes,Yes,456,83,18.2,15.13,16.85,13.42,20.89,NS
+2013,513,Mercy Medical Center,Nassau,Yes,Yes,169,20,11.83,15.68,10.58,6.46,16.34,NS
+2013,1454,Metropolitan Hospital Center,New York,Yes,Yes,47,1,2.13,4.36,6.83,0.17,38.08,NS
+2013,3067,Millard Fillmore Suburban Hospital,Erie,Yes,No,48,10,20.83,22.7,12.86,6.17,23.65,NS
+2013,3058,Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div,Bronx,Yes,No,333,18,5.41,9.06,8.36,4.95,13.21,Below
+2013,1169,Montefiore Medical Center - Henry & Lucy Moses Div,Bronx,Yes,No,564,54,9.57,11.4,11.77,8.84,15.35,NS
+2013,1168,Montefiore Medical Center - North Division,Bronx,No,No,92,12,13.04,11.51,15.87,8.2,27.73,NS
+2013,1456,Mount Sinai Hospital,New York,Yes,No,387,47,12.14,14.71,11.57,8.5,15.38,NS
+2013,1639,Mount Sinai Hospital - Queens Division,Queens,Yes,No,138,11,7.97,10.19,10.96,5.47,19.6,NS
+2013,583,Mount St Marys Hospital and Health Center,Niagara,Yes,Yes,88,12,13.64,9.98,19.14,9.89,33.44,NS
+2013,1061,Mount Vernon Hospital,Westchester,Yes,No,48,7,14.58,12.21,16.73,6.73,34.47,NS
+2013,528,Nassau University Medical Center,Nassau,Yes,No,168,38,22.62,18.44,17.19,12.16,23.59,NS
+2013,1028,Newark-Wayne Community Hospital,Wayne,Yes,No,78,19,24.36,15.74,21.69,13.06,33.87,NS
+2013,1293,"New York Community Hospital of Brooklyn, Inc",Kings,Yes,No,63,5,7.94,12.13,9.16,2.98,21.39,NS
+2013,1637,New York Hospital Medical Center   of Queens,Queens,Yes,No,524,52,9.92,12.39,11.23,8.38,14.72,NS
+2013,1306,New York Methodist Hospital,Kings,Yes,No,334,36,10.78,12.66,11.93,8.35,16.51,NS
+2013,3975,New York Presbyterian Hospital - Allen Hospital,New York,Yes,Yes,123,16,13.01,13.01,14.01,8.01,22.75,NS
+2013,1464,New York Presbyterian Hospital - Columbia Presbyterian Center,New York,Yes,No,635,74,11.65,15.96,10.23,8.03,12.85,Below
+2013,1437,New York Presbyterian Hospital - Downtown Division,New York,Yes,No,126,13,10.32,15.09,9.58,5.1,16.38,NS
+2013,1458,New York Presbyterian Hospital - New York Weill Cornell Center,New York,Yes,Yes,415,52,12.53,14.93,11.76,8.78,15.42,NS
+2013,574,Niagara Falls Memorial Medical Center,Niagara,Yes,No,35,2,5.71,5.4,14.83,1.8,53.59,NS
+2013,1186,North Central Bronx Hospital,Bronx,No,No,37,1,2.7,6.19,6.11,0.15,34.06,NS
+2013,192,Northern Dutchess Hospital,Dutchess,Yes,Yes,53,10,18.87,12.55,21.06,10.1,38.73,NS
+2013,1117,Northern Westchester Hospital,Westchester,Yes,No,111,11,9.91,12.33,11.26,5.62,20.14,NS
+2013,541,North Shore University Hospital,Nassau,Yes,No,796,134,16.83,18.97,12.44,10.42,14.73,NS
+2013,776,Nyack Hospital,Rockland,Yes,No,192,23,11.98,14.27,11.76,7.46,17.65,NS
+2013,1463,NYU Hospitals Center,New York,Yes,Yes,145,7,4.83,12.94,5.23,2.1,10.77,Below
+2013,699,Orange Regional Medical Center,Orange,Yes,No,281,57,20.28,16.89,16.82,12.74,21.8,NS
+2013,43,Our Lady of Lourdes Memorial Hospital Inc,Broome,Yes,No,126,25,19.84,13.91,19.99,12.93,29.5,NS
+2013,938,Peconic Bay Medical Center,Suffolk,Yes,No,66,6,9.09,10.11,12.6,4.62,27.41,NS
+2013,1129,Phelps Memorial Hospital Assn,Westchester,Yes,No,72,11,15.28,15.51,13.8,6.89,24.7,NS
+2013,552,Plainview Hospital,Nassau,Yes,Yes,131,13,9.92,12.66,10.99,5.85,18.79,NS
+2013,752,Putnam Hospital Center,Putnam,Yes,No,64,6,9.38,14.48,9.07,3.33,19.74,NS
+2013,1633,Queens Hospital Center,Queens,No,No,115,7,6.09,4.34,19.67,7.91,40.52,NS
+2013,1738,Richmond University Medical Center,Richmond,Yes,No,121,18,14.88,16.92,12.32,7.3,19.47,NS
+2013,411,Rochester General Hospital,Monroe,Yes,Yes,533,67,12.57,14.39,12.24,9.49,15.54,NS
+2013,756,Samaritan Hospital,Rensselaer,Yes,Yes,88,18,20.45,13.75,20.85,12.36,32.95,NS
+2013,367,Samaritan Medical Center,Jefferson,No,No,88,16,18.18,13.49,18.88,10.79,30.67,NS
+2013,818,Saratoga Hospital,Saratoga,No,No,63,14,22.22,16,19.46,10.64,32.66,NS
+2013,755,Seton Health System-St Mary's Campus,Rensselaer,Yes,Yes,57,6,10.53,10.65,13.84,5.08,30.13,NS
+2013,218,Sisters of Charity Hospital,Erie,Yes,Yes,84,6,7.14,10.07,9.94,3.65,21.63,NS
+2013,292,Sisters of Charity Hospital - St Joseph Campus,Erie,No,No,45,8,17.78,12.24,20.35,8.78,40.09,NS
+2013,1097,SJRH - St Johns Division,Westchester,Yes,No,138,21,15.22,13.24,16.1,9.97,24.61,NS
+2013,1072,Sound Shore Medical Center of Westchester,Westchester,Yes,No,124,14,11.29,13.8,11.46,6.26,19.23,NS
+2013,889,Southampton Hospital,Suffolk,Yes,Yes,62,11,17.74,17,14.63,7.3,26.17,NS
+2013,527,South Nassau Communities Hospital,Nassau,Yes,No,292,43,14.73,15.3,13.48,9.76,18.16,NS
+2013,924,Southside Hospital,Suffolk,Yes,No,267,42,15.73,10.74,20.52,14.79,27.74,Above
+2013,1740,Staten Island University Hosp-North,Richmond,Yes,No,324,39,12.04,18.04,9.35,6.65,12.78,Below
+2013,1737,Staten Island University Hosp-South,Richmond,No,No,42,5,11.9,8.67,19.23,6.24,44.88,NS
+2013,0,Statewide,Statewide,NA,NA,28143,3943,14.01,,14.01,,,NA
+2013,1176,St Barnabas Hospital,Bronx,Yes,Yes,164,25,15.24,12.15,17.58,11.38,25.95,NS
+2013,943,St Catherine of Siena Hospital,Suffolk,Yes,Yes,167,37,22.16,17.41,17.83,12.56,24.58,NS
+2013,896,St Charles Hospital,Suffolk,Yes,No,43,2,4.65,10.67,6.11,0.74,22.06,NS
+2013,598,St Elizabeth Medical Center,Oneida,No,No,77,6,7.79,12.59,8.67,3.18,18.88,NS
+2013,563,St Francis Hospital,Nassau,Yes,Yes,171,16,9.36,14.88,8.81,5.03,14.3,NS
+2013,180,St Francis Hospital,Dutchess,Yes,Yes,64,14,21.88,16.96,18.07,9.88,30.32,NS
+2013,1635,St Johns Episcopal Hospital So Shore,Queens,Yes,No,131,18,13.74,9.62,20.02,11.86,31.63,NS
+2013,551,St. Joseph Hospital,Nassau,Yes,Yes,183,33,18.03,13,19.43,13.38,27.29,NS
+2013,630,St Josephs Hospital Health Center,Onondaga,No,No,153,14,9.15,12.85,9.97,5.45,16.73,NS
+2013,1098,St Joseph's Medical Center,Westchester,Yes,No,50,3,6,10,8.41,1.73,24.57,NS
+2013,694,St Luke's Cornwall Hospital/Newburgh,Orange,Yes,No,145,25,17.24,16.7,14.46,9.36,21.35,NS
+2013,1466,St Lukes Roosevelt Hospital Center - Roosevelt Hospital Division,New York,Yes,No,207,26,12.56,15.27,11.53,7.53,16.89,NS
+2013,1469,St Lukes Roosevelt Hospital - St Lukes Hospital Division,New York,Yes,No,241,39,16.18,11.84,19.15,13.62,26.18,NS
+2013,484,St. Mary's Healthcare,Montgomery,No,No,49,17,34.69,20.07,24.22,14.11,38.77,Above
+2013,5,St Peters Hospital,Albany,Yes,Yes,279,42,15.05,13.95,15.12,10.9,20.44,NS
+2013,413,Strong Memorial Hospital,Monroe,Yes,Yes,737,107,14.52,16.65,12.22,10.01,14.76,NS
+2013,1302,SUNY Downstate Medical Center at LICH,Kings,Yes,No,85,19,22.35,16.32,19.19,11.55,29.96,NS
+2013,550,Syosset Hospital,Nassau,Yes,Yes,37,9,24.32,20.15,16.92,7.73,32.11,NS
+2013,471,The Unity Hospital of Rochester,Monroe,Yes,No,252,48,19.05,16.46,16.21,11.95,21.49,NS
+2013,58,United Health Services Hospitals Inc. - Wilson Medical Center,Broome,Yes,No,269,58,21.56,16.36,18.46,14.02,23.87,Above
+2013,339,United Memorial Medical Center North Street Campus,Genesee,No,No,30,6,20,15.15,18.49,6.79,40.25,NS
+2013,245,University Hospital,Suffolk,Yes,Yes,479,51,10.65,17.8,8.38,6.24,11.02,Below
+2013,1320,University Hospital of Brooklyn,Kings,Yes,No,192,12,6.25,5.92,14.79,7.64,25.83,NS
+2013,635,University Hospital SUNY Health Science Center,Onondaga,Yes,No,675,102,15.11,14.2,14.91,12.16,18.1,NS
+2013,181,Vassar Brothers Medical Center,Dutchess,Yes,Yes,244,43,17.62,12.8,19.28,13.96,25.97,NS
+2013,1139,Westchester Medical Center,Westchester,Yes,Yes,383,86,22.45,21.17,14.86,11.89,18.35,NS
+2013,1045,White Plains Hospital Center,Westchester,Yes,Yes,218,18,8.26,12.71,9.1,5.4,14.39,NS
+2013,511,Winthrop-University Hospital,Nassau,Yes,Yes,354,41,11.58,16.89,9.61,6.89,13.03,Below
+2013,103,Woman's Christian Association,Chautauqua,No,No,54,8,14.81,10.58,19.62,8.47,38.66,NS
+2013,1692,Woodhull Medical & Mental Health Center,Kings,Yes,No,125,11,8.8,9.62,12.82,6.4,22.93,NS
+2013,1318,Wyckoff Heights Medical Center,Kings,Yes,Yes,196,25,12.76,13.46,13.28,8.59,19.6,NS
