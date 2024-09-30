@@ -44,7 +44,41 @@ You can install all the required libraries using pip with the following command:
 pip install joblib scikit-learn time json numpy pandas itertools copy xgboost mord
 ```
 
-#### Example: run AdaBoost on dataset_1
+#### Example:
+
+---
+
+⚠️ **WARNING: some of the paths are hard coded with slashes ( unix based ) so if you are using windows based machine you will get an error**
+
+---
+
+- if you want to run all the models for a given dataset X you can go to the directory `Code` and run the following command:
+
+```bash
+cd Code
+python3 master.py 1
+```
+
+in general:
+
+```bash
+cd Code
+python3 master.py number
+```
+
+- but if you wanrt to run only a particular model you can do:
+
+```bash
+cd Code
+python3 ./reg_models/Adaboost.py 1 True
+```
+
+in general:
+
+```bash
+cd Code
+python3 ./type/model.py number is_multitarget
+```
 
 .........
 
