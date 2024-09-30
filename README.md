@@ -6,6 +6,7 @@ This repository investigates the application of machine learning models for pred
 
 ## Structure
 
+```
 .
 ├── Charts/
 ├── Code/
@@ -18,6 +19,7 @@ This repository investigates the application of machine learning models for pred
 ├── 'related PDFs'/
 ├── README.md
 └── Results_LITE/
+```
 
 ### Code
 
@@ -56,7 +58,7 @@ This directory contains the original datasets, where the name of the target feat
 
 ### Dataset_info
 
-This folder includes basic information for each dataset. This information is also available in the Documentation.pdf located in the related PDFs folder.
+This folder includes basic information for each dataset. This information is also available in the `Documentation.pdf` located in the `related PDFs` folder.
 
 ### Dataset_meta_features
 
